@@ -1,33 +1,77 @@
-## Hi there 👋
-# Olá, eu sou Pedro Walter 👋
+<div align="center">
 
-🎓 Estudante de Engenharia de Software na Campo Real
+# 👋 Olá, eu sou Pedro Walter
 
-💻 Interessado em:
-- Desenvolvimento Web
-- Java
-- Tecnologia e Inovação
-- Projetos de Software
+### 🎓 Estudante de Engenharia de Software
 
-🌱 Atualmente aprendendo:
-- Java
-- HTML e CSS
-- Banco de Dados
-- Engenharia de Software
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Bem-vindo+ao+meu+perfil!;Desenvolvedor+em+formação;Apaixonado+por+Tecnologia;Sempre+aprendendo+algo+novo" />
 
-## 🚀 Tecnologias
+</div>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+---
+
+## 🚀 Sobre Mim
+
+🎓 Cursando Engenharia de Software na Campo Real em Irati
+
+💻 Estudando desenvolvimento web e programação
+
+📚 Aprendendo Java, HTML, CSS e Banco de Dados
+
+🎯 Em busca de oportunidades de estágio na área de TI ou afins
+
+---
+
+## 🛠️ Tecnologias
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,html,css,git,github,vscode" />
+
+</div>
+
+---
+
+## 📊 Estatísticas GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroWalter654&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroWalter654&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🔥 Sequência de Contribuições
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=PedroWalter654&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 📈 Atividade
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PedroWalter654&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
 
 ## 📫 Contato
 
-- Email: pedrohwalter2006@gmail.com
-- LinkedIn: (adicione seu LinkedIn aqui)
+📧 **pedrohwalter2006@gmail.com**
 
-## 📊 Estatísticas
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PedroWalter654&show_icons=true&theme=tokyonight)
+<div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroWalter654&layout=compact&theme=tokyonight)
+### 🚀 Obrigado por visitar meu perfil!
+
+</div>
